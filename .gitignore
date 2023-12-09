@@ -16,3 +16,7 @@ public/
 
 # Local Netlify folder
 .netlify
+
+# 缓存文件
+.nvimlog
+
